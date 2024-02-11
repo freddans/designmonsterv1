@@ -1,0 +1,320 @@
+Logged on: Sun Feb 11 21:46:12 CET 2024
+Activity: READ
+Info: name: Fredrik
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: READ
+Info: age: 34
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: READ
+Info: email: flundell89@gmail.com
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: WRITE
+Info: name = freds
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: WRITE
+Info: age = 30
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: WRITE
+Info: email = freds
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: READ
+Info: name: freds
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: READ
+Info: age: 30
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: READ
+Info: email: freds
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: WRITE
+Info: phone = 0708388404
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: WRITE
+Info: name = Fredrik
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: WRITE
+Info: age = 34
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: WRITE
+Info: email = flundell89@gmail.com
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: WRITE
+Info: phone = 0708388404
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: READ
+Info: name: Fredrik
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: READ
+Info: age: 34
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: READ
+Info: email: flundell89@gmail.com
+
+Logged on: Sun Feb 11 21:46:13 CET 2024
+Activity: READ
+Info: phone: 0708388404
+
+Logged on: Sun Feb 11 21:47:43 CET 2024
+Activity: READ
+Info: name: Fredrik
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: READ
+Info: age: 34
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: READ
+Info: email: flundell89@gmail.com
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: WRITE
+Info: name = freds
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: WRITE
+Info: age = 30
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: WRITE
+Info: email = freds
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: READ
+Info: name: freds
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: READ
+Info: age: 30
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: READ
+Info: email: freds
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: WRITE
+Info: phone = 0708388404
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: WRITE
+Info: name = Fredrik
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: WRITE
+Info: age = 34
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: WRITE
+Info: email = flundell89@gmail.com
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: WRITE
+Info: phone = 0708388404
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: READ
+Info: name: Fredrik
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: READ
+Info: age: 34
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: READ
+Info: email: flundell89@gmail.com
+
+Logged on: Sun Feb 11 21:47:44 CET 2024
+Activity: READ
+Info: phone: 0708388404
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: READ
+Info: name: Fredrik
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: READ
+Info: age: 34
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: READ
+Info: email: flundell89@gmail.com
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: WRITE
+Info: name = freds
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: WRITE
+Info: age = 30
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: WRITE
+Info: email = freds
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: READ
+Info: name: freds
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: READ
+Info: age: 30
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: READ
+Info: email: freds
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: WRITE
+Info: phone = 0708388404
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: WRITE
+Info: name = Fredrik
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: WRITE
+Info: age = 34
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: WRITE
+Info: email = flundell89@gmail.com
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: WRITE
+Info: phone = 0708388404
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: READ
+Info: name: Fredrik
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: READ
+Info: age: 34
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: READ
+Info: email: flundell89@gmail.com
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: READ
+Info: phone: 0708388404
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: WRITE
+Info: Message contains forbidden word: bajs
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: WRITE
+Info: name = freddan
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: READ
+Info: phone: 0708388404
+
+Logged on: Sun Feb 11 21:50:21 CET 2024
+Activity: READ
+Info: name: freddan
+
+Logged on: Sun Feb 11 21:51:31 CET 2024
+Activity: READ
+Info: name: freddan
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: READ
+Info: age: 34
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: READ
+Info: email: flundell89@gmail.com
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: WRITE
+Info: name = freds
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: WRITE
+Info: age = 30
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: WRITE
+Info: email = freds
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: READ
+Info: name: freds
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: READ
+Info: age: 30
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: READ
+Info: email: freds
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: WRITE
+Info: phone = 0708388404
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: WRITE
+Info: name = Fredrik
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: WRITE
+Info: age = 34
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: WRITE
+Info: email = flundell89@gmail.com
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: WRITE
+Info: phone = 0708388404
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: READ
+Info: name: Fredrik
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: READ
+Info: age: 34
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: READ
+Info: email: flundell89@gmail.com
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: READ
+Info: phone: 0708388404
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: WRITE
+Info: Message contains forbidden word: bajs
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: WRITE
+Info: name = freddan
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: READ
+Info: phone: 0708388404
+
+Logged on: Sun Feb 11 21:51:32 CET 2024
+Activity: READ
+Info: name: freddan
+

@@ -6,6 +6,8 @@ public class Main {
   public static void main(String[] args) {
     Proxy proxy = new Proxy();
 
+    proxy.addBadWord("bajs");
+
     proxy.displayInfo("name");
     proxy.displayInfo("age");
     proxy.displayInfo("email");
@@ -36,5 +38,11 @@ public class Main {
     proxy.displayInfo("age");
     proxy.displayInfo("email");
     proxy.displayInfo("phone");
+
+    proxy.write("phone", "bajs");
+    proxy.write("name", "freddan");
+
+    proxy.displayInfo("phone");
+    proxy.displayInfo("name");
   }
 }
